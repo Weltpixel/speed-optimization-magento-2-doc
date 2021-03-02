@@ -1,13 +1,13 @@
-<h1><a href="https://www.weltpixel.com/magento-2-speed-optimization-advanced-js-bundling.html">Magento 2 Speed Optimization & Advanced JS Bundling by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento-2-speed-optimization-advanced-js-bundling.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Speed Optimization & Advanced JS Bundling by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-2-speed-optimization-advanced-js-bundling.html"><img src="https://www.weltpixel.com/media/catalog/product/s/p/speed-main_1.png" alt="Speed Optimization & Advanced JS Bundling"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento-2-speed-optimization-advanced-js-bundling.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/s/p/speed-main_1.png" alt="Speed Optimization & Advanced JS Bundling"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	  	  	  	<h1>ABOUT THE MAGENTO 2 SPEED OPTIMIZATION & ADVANCED JS BUNDLING MODULE.</h1>
+                <h1>ABOUT THE MAGENTO 2 SPEED OPTIMIZATION & ADVANCED JS BUNDLING MODULE.</h1>
  <p>
 The Magento 2 Speed Optimization extension significantly increases your Google Page Speed score, just by installing and configuring the module. This is achieved by implementing a series of improvements like reducing the number of server requests in an efficient way through the following optimizations:
     </p>
@@ -63,8 +63,8 @@ It’s no secret that the world of SEO is constantly changing. Since 2018 there 
     <p>
 The Magento 2 Speed Optimization Extension prepares your site for Google mobile first indexing and helps get you back on the front page!
     </p>
-         <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-speed-optimization-advanced-js-bundling.html">Speed Optimization & Advanced JS Bundling by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+         <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-speed-optimization-advanced-js-bundling.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Speed Optimization & Advanced JS Bundling by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
                             </div></td>
  </tr>
 </table>
@@ -228,15 +228,15 @@ The Magento 2 Speed Optimization Extension prepares your site for Google mobile 
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                                                                                                <tr>
   <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">CONFIGURE THE SPEED OPTIMIZATION EXTENSION.</h2>
 <p>
 <strong>Magento Core Options</strong> are included in the module for visibility. Once the store is placed in Production mode, these Magento Core options are hidden, but will always be visible in this section.
-	</p>
+  </p>
     <ul>
         <li>
 Go to <strong>Admin > WeltPixel > Speed Optimizaton > Speed Optimization Settings</strong> 
@@ -245,7 +245,7 @@ Go to <strong>Admin > WeltPixel > Speed Optimizaton > Speed Optimization Setting
             <strong>Speed Optimization General Settings</strong> 
             </li>
             <p>
-            	-<strong>Enable</strong>  - [ Yes / No ] Enable / Disable the Speed Optomization module for your store.
+              -<strong>Enable</strong>  - [ Yes / No ] Enable / Disable the Speed Optomization module for your store.
             </p>
             </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-speed/backend1-R.png"></p>
@@ -323,7 +323,7 @@ Go to <strong>Admin > WeltPixel > Speed Optimizaton > Speed Optimization Setting
 Bundling JavaScript modules for better performance is about reducing two things:
     </p>
     <ul>
-    	<p>
+      <p>
 1.The number of server requests.
 </p>
 <p>
@@ -350,18 +350,18 @@ These tools need to be installed on your server in order for this process to wor
 </p>
 <p>
 If you have a user with sudo access, you can install nodejs using the following command:
-	</p>
-	<ul>
+  </p>
+  <ul>
 <strong><font color="#008000">sudo apt-get install -y nodejs</font><br /></strong>
-	</ul>
-	<p>
+  </ul>
+  <p>
 You can then check to make sure node.js is installed with the following command:
-	</p>
-	<ul>
+  </p>
+  <ul>
 <strong><font color="#008000">npm --v</font><br /></strong>
-	</ul>
-	<h3>REQUIRE.JS</h3>
-	  <p>
+  </ul>
+  <h3>REQUIRE.JS</h3>
+    <p>
 If you already have nodejs installed on the server, you can install require.js using the following command, issued from the root of your Magento installation:
     </p>
     <ul>
@@ -525,8 +525,8 @@ If you're using deployment scripts on your Magento Instance, you can include the
 <strong>Note:</strong> Make sure the Enable Advanced Bundling setting in <strong>Admin -> WeltPixel -> Speed Optimization Settings -> JS Optimization</strong> is set to <strong>Yes</strong>. and the config is saved.
 </p>
 <p>
-	<strong><font color="#008000">php bin/magento weltpixel:requirejs:generate</font><br /></strong>
-	</p>
+  <strong><font color="#008000">php bin/magento weltpixel:requirejs:generate</font><br /></strong>
+  </p>
 </div>
   </td>
  </tr>
@@ -695,5 +695,4 @@ ETags allow browsers to validate cached page components from visit to visit. Whi
    </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-speed-optimization-advanced-js-bundling.html">Magento 2 Speed Optimization & Advanced JS Bundling by WeltPixel.</a></h3>
-
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-speed-optimization-advanced-js-bundling.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Speed Optimization & Advanced JS Bundling by WeltPixel.</a></h3>
